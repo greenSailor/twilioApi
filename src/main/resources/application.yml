@@ -2,3 +2,11 @@ twilio:
   account_sid: ACedfbfe996d53b44c5b2aec8be45fed5c
   auth_token: 9a36d18015ba4f6903a60545e1f2f043
   trail_number: +18446481020
+
+
+#  http://localhost:8080/api/v1/sms
+#
+#  {
+#    "phoneNumber":"+15714109649",
+#    "message":"Hello Twilio integration done"
+#  }
